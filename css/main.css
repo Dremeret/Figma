@@ -1,0 +1,79 @@
+.partners{
+    margin: 70px auto 56px  ;
+    width: 283px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 300px;
+}
+
+
+.partners-title{
+    font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 22.0041px;
+   line-height: 27px;
+
+   text-align: center;
+
+}
+.partners-btn{
+    width:280px ;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid red;
+    color: red;
+    background-color: white;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.001px;
+}
+
+
+partners-name{
+    height: 17px;
+  width: 125.02391052246094px;
+  left: 46.98804473876953px;
+  top: 137px;
+  border-radius: nullpx;
+  
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0px;
+  text-align: center;
+  
+  background: #333333;
+  
+  font-family: monospace;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  }
+  .partners-about{
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 16px;
+  
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+  }
+  
+  .partners-img{
+    height: 120px;
+  width: 120px;
+  left: 50px;
+  top: 4px;
+  border-radius: 0px;
+  margin-bottom: 5px;
+  
+  }
