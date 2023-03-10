@@ -1,4 +1,9 @@
-.partners{
+ *{
+  margin:0 ;
+  padding: 0;
+ }  
+   
+   .partners{
     margin: 70px auto 56px  ;
     width: 283px;
 
@@ -34,38 +39,41 @@
 }
 
 
-partners-name{
+.partner-name{
     height: 17px;
   width: 125.02391052246094px;
   left: 46.98804473876953px;
   top: 137px;
-  border-radius: nullpx;
   
-  font-family: Montserrat;
+  margin-top: 13px;
+  font-family: Roboto;
   font-size: 14px;
   font-weight: 700;
   line-height: 17px;
   letter-spacing: 0px;
   text-align: center;
   
-  background: #333333;
+  background: #FFFFFF;
   
   font-family: monospace;
   font-style: normal;
   font-size: 14px;
   font-weight: 700;
   line-height: 17px;
+  
+ 
   }
-  .partners-about{
+  .partner-about{
     font-family: "Roboto";
     font-size: 14px;
     font-weight: 300;
     font-style: normal;
     line-height: 16px;
-  
+    color: #666666;
     display: flex;
     justify-content: flex-end;
     text-align: center;
+    margin-top: 11px;
   }
   
   .partners-img{
@@ -75,5 +83,29 @@ partners-name{
   top: 4px;
   border-radius: 0px;
   margin-bottom: 5px;
+  margin-left:auto ;
+  margin-right: auto;
   
   }
+
+.partner-name{
+margin-left: auto;
+margin-right:auto;
+
+
+}
+
+
+
+.partners-btn{
+margin-top: 29px;
+
+
+}
+
+
+
+
+
+
+
